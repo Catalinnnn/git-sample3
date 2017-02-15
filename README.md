@@ -1,2 +1,2 @@
-# git-sample3
-Sample git project
+# git-sample2
+Sample repo displaying the usage of git
